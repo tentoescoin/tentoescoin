@@ -1,0 +1,9 @@
+Building tentoescoin
+
+See doc/readme-qt.rst for instructions on building tentoescoin-qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of tentoescoin.
+
+See doc/build-*.txt for instructions on building tentoescoin,
+the intended-for-services, no-graphical-interface, reference
+implementation of tentoescoin.
